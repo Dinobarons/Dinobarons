@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Angie
-- 👀 I’m interested in Angie
-- 🌱 I’m currently learning Angie
-- 💞️ I’m looking to collaborate on Angie
-- 📫 How to reach me Angie
+- 👋 Hi, I’m: @Angie
+- 👀 I’m interested in: Angie
+- 🌱 I’m currently learning: Angie
+- 💞️ I’m looking to collaborate on: Angie
+- 📫 How to reach me: Angie
 - 😄 Pronouns: Angie
 - ⚡ Fun fact: Angie
 
