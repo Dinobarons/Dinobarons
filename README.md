@@ -1,10 +1,10 @@
-- 👋 Hi, I’m: @Angie
-- 👀 I’m interested in: Angie
-- 🌱 I’m currently learning: Angie
-- 💞️ I’m looking to collaborate on: Angie
-- 📫 How to reach me: Angie
-- 😄 Pronouns: Angie
-- ⚡ Fun fact: Angie
+- 👋 Hi, I’m: Dinobarons
+- 👀 I’m interested in: Dinosaur
+- 🌱 I’m currently learning: Dinosaur
+- 💞️ I’m looking to collaborate on: Dinosaur
+- 📫 How to reach me: Dinosaur
+- 😄 Pronouns: Dinosaur
+- ⚡ Fun fact: Dinosaur
 
 <!---
 Dinobarons/Dinobarons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
